@@ -10,6 +10,7 @@ public class systemOut {
 			System.out.println(" "+name[i]);
 		}
 		System.out.println("\nSec.650002");
+		System.out.println("Love"); // add
 	}
 
 }
